@@ -26,7 +26,7 @@ A fun game where:
 
 1. Make sure Python is installed
 2. Clone this repository:
-   git clone https://github.com/yourusername/repositoryname.git
+   git clone https://github.com/devakisan-hub/python-bootcamp-projects
 3. Navigate to the folder and run:
    python filename.py
 
