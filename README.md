@@ -22,6 +22,18 @@ A fun game where:
 - The user tries to guess it
 - Hints like "Too High" or "Too Low" are given
 
+### 🪢 Hangman Game
+A classic word guessing game where:
+- The player guesses letters of a hidden word
+- Limited attempts are given
+- Game ends when the word is guessed or attempts run out
+
+### 📊 Higher Lower Game
+A comparison-based game where:
+- Player guesses which option has a higher value
+- Score increases with correct guesses
+- Game continues until a wrong guess
+
 ## 🚀 How to Run
 
 1. Make sure Python is installed
